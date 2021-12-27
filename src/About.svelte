@@ -77,8 +77,9 @@
 
 <style>
   article {
-    max-width: 960px;
+    max-width: min(960px, 100vw);
     line-height: 2;
+    margin: 0 2em;
   }
 
   h2 {
