@@ -1,9 +1,9 @@
 <script context="module" lang="ts">
-  export type Digit = number | "missing";
+  import type { Astragalos } from "./lib/util";
 </script>
 
 <script lang="ts">
-  export let digit: Digit;
+  export let digit: Astragalos;
 </script>
 
 <div aria-label="Astralagoi">

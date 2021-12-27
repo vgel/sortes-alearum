@@ -1,73 +1,54 @@
 <script lang="ts">
-  import { createEventDispatcher } from "svelte";
+  import { createEventDispatcher, onDestroy } from "svelte";
 
-  import Astragalos, { Digit } from "./Astragalos.svelte";
+  import AstragalosDisplay from "./Astragalos.svelte";
   import Card from "./Card.svelte";
+  import { Astragalos, astragalosSucc, randomAstragalos } from "./lib/util";
 
-  let digits: Digit[] = Array(5)
-    .fill(0)
-    .map((_) => "missing");
+  let digits: Astragalos[] = Array(5).fill(1);
+  /**
+   * If the index of a digit is < this number, it's considered done rolling.
+   * Its value is fixed and it won't animate anymore.
+   * This value *can* be negative, it just means it takes longer to tick up to completion.
+   */
   let digitsFinishedRolling = 0;
+  /**
+   * A reactive value that is true when `digitsFinishedRolling` is >= `digits.length`,
+   * meaning all digits are finished rolling.
+   */
   let finishedRolling: boolean;
   $: finishedRolling = digitsFinishedRolling >= digits.length;
 
+  /** The returned handle from the dice-rolling setInterval */
   let timerHandle: ReturnType<typeof setInterval> | undefined = undefined;
-
-  let eventDispatcher = createEventDispatcher<{
-    rolled: number[];
-  }>();
-
   function clearTimerHandle() {
     if (timerHandle !== undefined) {
       clearInterval(timerHandle);
     }
   }
+  onDestroy(() => clearTimerHandle());
+
+  /** This event will be fired when `finishedRolling` becomes true */
+  let eventDispatcher = createEventDispatcher<{
+    rolled: Astragalos[];
+  }>();
 
   function startRolling() {
     timerHandle = setInterval(rollStep, 200);
+    // 10 steps of all rolling, then 5 steps of iterative stopping
     digitsFinishedRolling = -10;
-    digits = digits.map((_) => [1, 3, 4, 6][Math.floor(Math.random() * 4)]);
+    digits = digits.map((_) => randomAstragalos());
   }
 
   function rollStep() {
     if (finishedRolling) {
       clearTimerHandle();
-      setTimeout(viewFortune, 200);
+      setTimeout(() => eventDispatcher("rolled", digits), 200);
       return;
     }
 
-    digits = digits.map((d, idx) => {
-      if (idx < digitsFinishedRolling) {
-        return d;
-      }
-
-      switch (d) {
-        case 1:
-          return 3;
-        case 3:
-          return 4;
-        case 4:
-          return 6;
-        case 6:
-          return 1;
-      }
-    });
-
+    digits = digits.map((d, idx) => (idx < digitsFinishedRolling ? d : astragalosSucc(d)));
     digitsFinishedRolling += 1;
-  }
-
-  function viewFortune() {
-    eventDispatcher(
-      "rolled",
-      digits.map((d) => {
-        if (d == "missing") {
-          console.error("rogue missing in digits", digits);
-          return 1;
-        } else {
-          return d;
-        }
-      })
-    );
   }
 </script>
 
@@ -79,7 +60,7 @@
     </p>
     <div class="astragaloi">
       {#each digits as digit}
-        <Astragalos {digit} />
+        <AstragalosDisplay {digit} />
       {/each}
     </div>
     <div class="roll-container">

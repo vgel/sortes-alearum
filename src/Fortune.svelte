@@ -1,22 +1,15 @@
 <script lang="ts">
-  import Astragalos from "./Astragalos.svelte";
+  import AstragalosDisplay from "./Astragalos.svelte";
   import Card from "./Card.svelte";
+  import { Astragalos, parseAstragaloi } from "./lib/util";
 
   export let roll: string;
   export let rollDesc: string;
   export let entity: string;
   export let text: string[];
 
-  let digits: number[];
-  $: digits = roll.split("").map((d) => {
-    let dn = Number(d);
-    if (isNaN(dn)) {
-      console.error(`${d} is not a number`);
-      return 1;
-    } else {
-      return dn;
-    }
-  });
+  let digits: Astragalos[];
+  $: digits = parseAstragaloi(roll);
 
   let fortuneHtml: string;
   $: fortuneHtml = text.map((s) => s.trim()).join(" ");
@@ -26,7 +19,7 @@
   <div class="container">
     <div class="astragaloi">
       {#each digits as digit}
-        <Astragalos {digit} />
+        <AstragalosDisplay {digit} />
       {/each}
     </div>
     <p class="roll-desc">{rollDesc}:</p>

@@ -12,7 +12,7 @@
     align-items: stretch;
 
     padding: 1.5em;
-    width: 30em;
+    max-width: 30em;
     min-height: 22em;
 
     border-radius: 5px;
