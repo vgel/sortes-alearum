@@ -1,0 +1,658 @@
+[
+  {
+    "roll": "11111",
+    "sum": 5,
+    "entity": "Zeus Olympios",
+    "roll_desc": "If you see only Chians",
+    "text": [
+      "Zeus will give good thinking to your mind, stranger:",
+      "he will grant happiness to your work,",
+      "for which you will give thanks. But appease Aphrodite and",
+      "the son of Maia."
+    ]
+  },
+  {
+    "roll": "11113",
+    "sum": 7,
+    "entity": "Athena Areia",
+    "roll_desc": "If four Chians and one three are cast, the god signals",
+    "text": [
+      "By avoiding enmity and animosity, you will reach your prize;",
+      "you will arrive and the blue-eyed goddess Athena will save",
+      "you. The activity that you have in mind will turn out as",
+      "you wish it."
+    ]
+  },
+  {
+    "roll": "41111",
+    "sum": 8,
+    "entity": "Moirai",
+    "roll_desc": "If one four and four Chians in a row are cast",
+    "text": [
+      "Don’t do the business that you are engaged in; it will not turn out",
+      "well. It will be difficult and impossible around someone",
+      "who tires himself out. But if you go abroad for some time,",
+      "no harm will come from it."
+    ]
+  },
+  {
+    "roll": "33111",
+    "sum": 9,
+    "entity": "Zeus’ Eagle",
+    "roll_desc": "If two threes and three Chians are cast",
+    "text": [
+      "A high flying eagle on the right-hand side of the traveller will be a good omen;",
+      "with the help of Greatest Zeus (Zeus Megistos), you will",
+      "achieve your goal; do not fear."
+    ]
+  },
+  {
+    "roll": "61111",
+    "sum": 10,
+    "entity": "Daimôn Megistos",
+    "roll_desc": "If one six and four Chians in a row",
+    "text": [
+      "It will be better to fulfill whatever vow you made to the daimôn, if you intend",
+      "to perform what you ponder in your mind. Demeter and Zeus will save you."
+    ]
+  },
+  {
+    "roll": "11143",
+    "sum": 10,
+    "entity": "Fortune, Bringer of Happiness",
+    "roll_desc": "If three are Chians, one a four and the fifth a three",
+    "text": [
+      "Do not do the business you are about to do; as for the very",
+      "intention you have, the gods are restraining it, but they",
+      "will free you from your toil and no harm will meet you."
+    ]
+  },
+  {
+    "roll": "33311",
+    "sum": 11,
+    "entity": "Victory",
+    "roll_desc": "If three threes are cast, and further two Chians",
+    "text": [
+      "You will make gains; you will take what you wish, and you will achieve",
+      "everything; the daimôn will make you honored, and you",
+      "will overcome your enemies; the plan that you are about",
+      "to realize will be according to your desire."
+    ]
+  },
+  {
+    "roll": "44111",
+    "sum": 11,
+    "entity": "Joyful Victory",
+    "roll_desc": "If two fours and three Chians in a row are cast",
+    "text": [
+      "Do all your business, because it will turn out well. The gods will",
+      "save him who is ill from his bed; also the god announces",
+      "that he who is in another country will return home."
+    ]
+  },
+  {
+    "roll": "41133",
+    "sum": 12,
+    "entity": "Asklepios",
+    "roll_desc": "If one four, two Chians and two threes are cast",
+    "text": [
+      "A storm will come about your business, but it will turn out well;",
+      "also the god announces that he will free the one who is ill",
+      "from his suffering; and the gods will bring safely home",
+      "the one who is abroad."
+    ]
+  },
+  {
+    "roll": "11163",
+    "sum": 12,
+    "entity": "Steering Tyche",
+    "roll_desc": "Three Chians, a six, and the fifth throw a three",
+    "text": [
+      "Do not yet make haste to go; it is impossible to go, rather wait; if",
+      "you set out to rush mindlessly, you will do great damage to",
+      "yourself, but if you wait, blameless time will accomplish",
+      "everything."
+    ]
+  },
+  {
+    "roll": "11164",
+    "sum": 13,
+    "entity": "Aphrodite",
+    "roll_desc": "Three Chians and a six and the fifth a four",
+    "text": [
+      "Sail wherever you wish; you will return full of joy, for you have found and",
+      "accomplished everything that you ponder in your mind;",
+      "but pray to Aphrodite and the son of Maia (Hermes)."
+    ]
+  },
+  {
+    "roll": "13333",
+    "sum": 13,
+    "entity": "Zeus Who Comes Down <small>(Zeus Kataibates)</small>",
+    "roll_desc": "If one Chian and four threes are cast",
+    "text": [
+      "You are fit for every business and ready for any undertaking. The gods",
+      "will easily save him who is ill, and all will be well as to",
+      "the other oracles."
+    ]
+  },
+  {
+    "roll": "33331",
+    "sum": 13,
+    "entity": "The Seasons",
+    "roll_desc": "[The first two lines are lost]",
+    "text": [
+      "[–––] and impossible [–––]; the god does not allow the plan",
+      "that you follow, thus wait: it is terrible to walk into enmity,",
+      "competition and a trial."
+    ]
+  },
+  {
+    "roll": "13334",
+    "sum": 14,
+    "entity": "Poseidon",
+    "roll_desc": "One Chian, three threes, and one four: The god announces",
+    "text": [
+      "You kick against the goad, you struggle against the waves,",
+      "you search for a fish in the sea: do not hasten to do business.",
+      "It does not help you to force the gods at the wrong time."
+    ]
+  },
+  {
+    "roll": "61133",
+    "sum": 14,
+    "entity": "Daimôn",
+    "roll_desc": "One six, two Chians, and a pair of threes",
+    "text": [
+      "Do not project terrible things, and do not pray for what is against the",
+      "gods, thinking terrible thoughts. There will accrue no",
+      "gain from it, and no reward will come from this path you",
+      "are walking."
+    ]
+  },
+  {
+    "roll": "44411",
+    "sum": 14,
+    "entity": "Agathos Daimôn",
+    "roll_desc": "If three fours and two ones are cast",
+    "text": [
+      "The daimôn will lead you on the way that you undertake, and the lover of smiling,",
+      "Aphrodite, will lead you toward good things. You will",
+      "return with rich fruit and an untroubled Fate."
+    ]
+  },
+  {
+    "roll": "13344",
+    "sum": 15,
+    "entity": "Zeus Savior",
+    "roll_desc": "One Chian, two threes, two fours being cast",
+    "text": [
+      "Approach with courage the business that you set out to do; do it!",
+      "You will win, since the gods have given you these favorable",
+      "signs, and do not avoid them in your intention: nothing",
+      "bad will come from it."
+    ]
+  },
+  {
+    "roll": "11166",
+    "sum": 15,
+    "entity": "Zeus Ammon",
+    "roll_desc": "If three ones and two sixes are cast",
+    "text": [
+      "The god announces to you: Undertake with courage the way you set out in your",
+      "mind, god will give you everything: you will accomplish",
+      "whatever your mind tells you, and Zeus, thundering high,",
+      "will be with you as your savior."
+    ]
+  },
+  {
+    "roll": "33333",
+    "sum": 15,
+    "entity": "Tyche the Savior",
+    "roll_desc": "If all the threes are cast together",
+    "text": [
+      "The woman who has",
+      "given birth to a child, had both breasts dry, but she again",
+      "flourished and has milk in abundance. Then you too will",
+      "reap the fruits about which you ask me."
+    ]
+  },
+  {
+    "roll": "43611",
+    "sum": 15,
+    "entity": "Zeus of Hosts and Guests <small>(Zeus Xenios)</small>",
+    "roll_desc": "A four, a three, a six and two Chians",
+    "text": [
+      "Do not make haste",
+      "with the business for which you set out, it is not yet time.",
+      "The gods will easily save him who is ill, and the god",
+      "announces that he will make an end to the travel of him",
+      "who is in foreign land."
+    ]
+  },
+  {
+    "roll": "63331",
+    "sum": 16,
+    "entity": "Herakles",
+    "roll_desc": "One six, three threes and the fifth a Chian",
+    "text": [
+      "The moment",
+      "has not yet arrived, you make too much haste. Do not act",
+      "in vain, nor like the lion that has borne a blind puppy.",
+      "Deliberate calmly, and the god will lead you."
+    ]
+  },
+  {
+    "roll": "64411",
+    "sum": 16,
+    "entity": "Ares",
+    "roll_desc": "One six, two fours, and a two Chians",
+    "text": [
+      "Why do you hurry?",
+      "Wait calmly, the moment has not yet come; if you hurry",
+      "without sense and in vain, you pursue something that is",
+      "not yet ready. I do not yet see the right moment, but you",
+      "will have success when you wait a little while."
+    ]
+  },
+  {
+    "roll": "43333",
+    "sum": 16,
+    "entity": "Kronos",
+    "roll_desc": "One four is cast, the other four are threes",
+    "text": [
+      "Scorpions stand",
+      "in your way, do not hurry towards the business that you",
+      "intend; wait, and what you wish will arrive later; neither",
+      "to buy this nor to sell is better."
+    ]
+  },
+  {
+    "roll": "44413",
+    "sum": 16,
+    "entity": "Delphic Apollo",
+    "roll_desc": "Three fours, one Chian, and the fifth a three",
+    "text": [
+      "Do not make",
+      "haste; it will not be better to go; when you wish to rush",
+      "mindlessly, you will damage yourself very much; but when",
+      "you stay put, blameless time will perform everything."
+    ]
+  },
+  {
+    "roll": "66113",
+    "sum": 17,
+    "entity": "Isis the Savior",
+    "roll_desc": "A double six, two Chians and the fifth a three",
+    "text": [
+      "Enter and receive the voice from the",
+      "<abbr title=\"Refers to the traditional seat of the oracle of Apollo at Delphi\">tripod</abbr>!",
+      "The time is ripe and flourishing; you will marry and return home. You will",
+      "achieve whatever you want in your business, having found",
+      "the thing about which you are anxious."
+    ]
+  },
+  {
+    "roll": "16334",
+    "sum": 17,
+    "entity": "Hermes the Savior",
+    "roll_desc": "A Chian, a six, two threes and the fifth a four",
+    "text": [
+      "I do not see anything painful among the things about which you",
+      "ask me; do not think small, go forward with courage; you",
+      "will find everything you wish: your vow will be fulfilled,",
+      "and there is a perfect occasion for you."
+    ]
+  },
+  {
+    "roll": "44333",
+    "sum": 17,
+    "entity": "Sarapis",
+    "roll_desc": "If two fours are cast and three threes",
+    "text": [
+      "Take courage and fight, Zeus the Owner (Ktesios) is your helper.",
+      "You wil punish your opponent and have him under your fist, and",
+      "he will give happiness to the works for which you will",
+      "thank him."
+    ]
+  },
+  {
+    "roll": "14444",
+    "sum": 17,
+    "entity": "Revenge",
+    "roll_desc": "When a single Chian is cast, and the others are fours",
+    "text": [
+      "Now the daimôn will fulfill everything for you and lead you the",
+      "right way. You will perform everything according to your",
+      "mind, do not wear yourself out anymore. You will achieve",
+      "beautifully whatever you desire."
+    ]
+  },
+  {
+    "roll": "66114",
+    "sum": 18,
+    "entity": "Adrasteia <small>(“She Whom You Cannot Escape”)</small>",
+    "roll_desc": "If two sixes, two Chians, and the fifth a four",
+    "text": [
+      "Do your business and undertake it; the time will be favorable. In",
+      "the middle, difficulties and danger are waiting. As to",
+      "the other oracles, things will turn out well for you."
+    ]
+  },
+  {
+    "roll": "16443",
+    "sum": 18,
+    "entity": "Zeus of the Lightning",
+    "roll_desc": "A Chian and a six, two fours and the fifth a three",
+    "text": [
+      "What you plan will not turn out according to your liking, when",
+      "you do it; it is not useful to travel to foreign lands. You",
+      "will show no insight if you sell now, nor will it be useful."
+    ]
+  },
+  {
+    "roll": "44433",
+    "sum": 18,
+    "entity": "The Greatest Daimôn",
+    "roll_desc": "If there are three fours and two threes, he signifies this",
+    "text": [
+      "I do not see this plan as safe for you; thus wait. You will",
+      "do well, after this there will be luck; as for now remain",
+      "calm, trust the gods and stay hopeful."
+    ]
+  },
+  {
+    "roll": "63333",
+    "sum": 18,
+    "entity": "Good Time",
+    "roll_desc": "A six and four threes together; the oracle announces thus",
+    "text": [
+      "Do not make haste, the daimôn is opposed to you, rather",
+      "wait and do not act like a dog that gave birth to a blind",
+      "litter. Take counsel calmly, and things will turn out happily",
+      "for you."
+    ]
+  },
+  {
+    "roll": "66133",
+    "sum": 19,
+    "entity": "Good Hope",
+    "roll_desc": "Two sixes, a Chian and two threes; he signifies this",
+    "text": [
+      "Everything about which you ask me is smooth riding for you",
+      "and safe; do not be afraid, a daimôn will lead you towards",
+      "everything; he will end the painful difficulties and you will",
+      "disprove the suspicions."
+    ]
+  },
+  {
+    "roll": "44461",
+    "sum": 19,
+    "entity": "Zeus of Possessions",
+    "roll_desc": "Three fours, one six, and the fifth a Chian",
+    "text": [
+      "Proceed with courage, the oracle is about hope, stranger; it announces",
+      "also that the sick person will be saved. If you need to",
+      "consult an oracle, you will receive what you desire."
+    ]
+  },
+  {
+    "roll": "34444",
+    "sum": 19,
+    "entity": "Hermes Who Brings Gain in Trade",
+    "roll_desc": "If one three and four fours are cast",
+    "text": [
+      "Zeus will give a good plan to your mind, stranger; thus, all will be well,",
+      "undertake what you desire; you will find whatever you ask the oracle",
+      "for, and nothing will be bad for you."
+    ]
+  },
+  {
+    "roll": "33364",
+    "sum": 19,
+    "entity": "Victory",
+    "roll_desc": "Three threes, one six and the fifth a four",
+    "text": [
+      "You pronounce a good oracle, stranger; once you have thought it through,",
+      "you will do whatever you desire, and the god will be your",
+      "helper; you will win, you will reap the fruits, and you will",
+      "achieve everything."
+    ]
+  },
+  {
+    "roll": "44444",
+    "sum": 20,
+    "entity": "The Inexorable Moirai",
+    "roll_desc": "If all four are cast together in the same way",
+    "text": [
+      "The sun has gone down, and terrible night has come, everything has",
+      "become dark. Interrupt the matter about which you ask",
+      "me; it is neither better to buy nor to sell."
+    ]
+  },
+  {
+    "roll": "43661",
+    "sum": 20,
+    "entity": "The Moon",
+    "roll_desc": "A four and a three, two sixes, and the fifth a Chian",
+    "text": [
+      "Do not undertake this business, stranger; it will not turn out",
+      "well for you. The god announces that he will help the one",
+      "who is ill; and if there is any fear, nothing bad will happen",
+      "to you."
+    ]
+  },
+  {
+    "roll": "63344",
+    "sum": 20,
+    "entity": "The Protecting Dioskouroi",
+    "roll_desc": "Alone the six, two threes, the others fours",
+    "text": [
+      "A man who makes haste does not achieve what opportunity offers. You",
+      "have a profit, and there is fear everywhere because of",
+      "evil; your business is ill-fated, and everything is painful;",
+      "watch out!"
+    ]
+  },
+  {
+    "roll": "66611",
+    "sum": 20,
+    "entity": "Hephaistos",
+    "roll_desc": "Three sixes and two Chians; he will tell the following",
+    "text": [
+      "It is impossible to do business; do not toil in vain! And do",
+      "not turn every stone, lest you chance upon a scorpion.",
+      "Fussiness will not bring you luck, be on your guard for",
+      "all sorts of misfortune!"
+    ]
+  },
+  {
+    "roll": "66441",
+    "sum": 21,
+    "entity": "Demeter",
+    "roll_desc": "A pair of sixes, two fours, the fifth a Chian",
+    "text": [
+      "Everything about which you ask me is on a smooth way for you and",
+      "safe; do not be afraid, a daimôn will lead you towards",
+      "everything; I see nothing that will bring you harm; take",
+      "heart and go forward."
+    ]
+  },
+  {
+    "roll": "44463",
+    "sum": 21,
+    "entity": "Helios, Bringer of Light",
+    "roll_desc": "Three fours, one single six, and the fifth a three",
+    "text": [
+      "You will achieve whatever you desire, and you will find whatever",
+      "you worry about. Make an attempt, stranger, having taken",
+      "heart; everything is ready; you will find what is invisible,",
+      "you will come to the day of salvation."
+    ]
+  },
+  {
+    "roll": "33366",
+    "sum": 21,
+    "entity": "Tyche who Leads to Good Things",
+    "roll_desc": "When three threes are cast and two sixes, he announces this",
+    "text": [
+      "Your matters are doing well; this oracle tells you to",
+      "press forward; you will get away from difficult illness and",
+      "master everything, and the god announces that he who is",
+      "erring in a foreign land will return."
+    ]
+  },
+  {
+    "roll": "16663",
+    "sum": 22,
+    "entity": "The Manifest Fates",
+    "roll_desc": "One Chian, three sixes, the fifth being cast is a three",
+    "text": [
+      "Do not put your hand into a wolf’s mouth, lest some harm",
+      "happens to you; the matter about which you ask is difficult",
+      "and delicate; but you stay quiet, avoiding travel and",
+      "business transactions."
+    ]
+  },
+  {
+    "roll": "44446",
+    "sum": 22,
+    "entity": "Poseidon",
+    "roll_desc": "If all that are cast are fours, but the fifth is a six, he announces this",
+    "text": [
+      "Throwing seeds and writing letters on the",
+      "sea are both pointless toil and fruitless doing; since you",
+      "are mortal, do not force a god who might harm you."
+    ]
+  },
+  {
+    "roll": "43366",
+    "sum": 22,
+    "entity": "Terrible Ares",
+    "roll_desc": "Four and two threes, two sixes, and he announces this",
+    "text": [
+      "Do not undertake the travel that you intend, stranger! Nobody",
+      "will do it. A large fiery lion is about, against whom you",
+      "have to be on your guard, a terrible one. The oracle is",
+      "untractable, wait quietly."
+    ]
+  },
+  {
+    "roll": "16664",
+    "sum": 23,
+    "entity": "Athena",
+    "roll_desc": "One Chian, three sixes, and the fifth a four",
+    "text": [
+      "Honor Pallas Athena, and you will get everything, whatever you wish,",
+      "and everything which you are planning will turn out well;",
+      "she will free from bonds and will save the sick person."
+    ]
+  },
+  {
+    "roll": "66443",
+    "sum": 23,
+    "entity": "Happiness",
+    "roll_desc": "If two sixes are cast and two fours, and the fifth is a three",
+    "text": [
+      "Sail, wherever you want, you will return home again,",
+      "having found and done everything according to your",
+      "wish; you will achieve everything, and thus to buy and to",
+      "trade is happiness."
+    ]
+  },
+  {
+    "roll": "66633",
+    "sum": 24,
+    "entity": "Apollo Pythios",
+    "roll_desc": "If three sixes and two threes are being cast, he signifies this",
+    "text": [
+      "Stay put, do not act, obey Phoibos’ oracles. With time,",
+      "you will find an occasion, but for now stay quiet. If you",
+      "wait a short while you will achieve everything, whatever",
+      "you desire."
+    ]
+  },
+  {
+    "roll": "44466",
+    "sum": 24,
+    "entity": "Kronos the Child Eater",
+    "roll_desc": "Three fours, two sixes; the god announces this to you",
+    "text": [
+      "Stay at home with your possessions and do not go somewhere",
+      "else, lest a terrible monster and a revengeful demon",
+      "approach you. I do not see this business as reliable and",
+      "safe."
+    ]
+  },
+  {
+    "roll": "46663",
+    "sum": 25,
+    "entity": "Mên Who Brings Light",
+    "roll_desc": "One four being cast, three sixes and the fifth a three",
+    "text": [
+      "Take courage; you have an opportunity; you will achieve",
+      "what you desire, and you will come upon the right time",
+      "to begin your travel; your toil will have its chance; it is",
+      "good to engage in work, competition and litigation."
+    ]
+  },
+  {
+    "roll": "66661",
+    "sum": 25,
+    "entity": "Mother of the Gods",
+    "roll_desc": "Four sixes, the fifth a Chian: he signifies this",
+    "text": [
+      "As wolves overpower sheep and powerful lions overpower broad-hoofed",
+      "oxen, so you too will master all this, and everything",
+      "about which you ask will be yours, with the help of",
+      "Zeus’ son Hermes."
+    ]
+  },
+  {
+    "roll": "66644",
+    "sum": 26,
+    "entity": "Subterranean Zeus",
+    "roll_desc": "When three sixes and two fours, the oracle announces",
+    "text": [
+      "The business has its obstacles, do not make haste, but",
+      "wait; there is a road, painful, impossible and not to be",
+      "approached; to buy is difficult and to sell brings loss."
+    ]
+  },
+  {
+    "roll": "66663",
+    "sum": 27,
+    "entity": "Heavenly Aphrodite",
+    "roll_desc": "Four sixes, the three alone: he signifies this to you",
+    "text": [
+      "The daughter of Uranus, Aphrodite, the mighty mistress of the",
+      "Erotes, sends a good oracle, she will grant travel to you;",
+      "you will escape from sickness and vainglorious thoughts."
+    ]
+  },
+  {
+    "roll": "66664",
+    "sum": 28,
+    "entity": "Damage",
+    "roll_desc": "Four sixes, a four: he signifies this",
+    "text": [
+      "It is impossible to undertake",
+      "something in vain; do not in vain toil uselessly, lest",
+      "you incur damage by pressing on. It is not good to begin",
+      "travelling nor doing business."
+    ]
+  },
+  {
+    "roll": "66666",
+    "sum": 30,
+    "entity": "Square Hermes",
+    "roll_desc": "If all that are cast together are sixes",
+    "text": [
+      "Do not go, wherever",
+      "you intend to; it will be better for you to stay; I see",
+      "something hostile to you, thus wait; afterwards, it will",
+      "be possible, and (the god) will free you from fear and save",
+      "you from toil."
+    ]
+  }
+]
